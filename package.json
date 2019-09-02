@@ -27,16 +27,16 @@
   },
   "homepage": "https://github.com/Charca/bootbot-cli#readme",
   "dependencies": {
-    "config": "^1.21.0",
+    "config": "^3.2.2",
     "fs-extra": "^0.30.0",
-    "inquirer": "^1.1.2",
-    "is-blank": "^1.1.0",
-    "localtunnel": "^1.8.1",
-    "lodash": "^4.14.1",
-    "meow": "^3.7.0",
+    "inquirer": "^7.0.0",
+    "is-blank": "^2.1.0",
+    "localtunnel": "^1.9.2",
+    "lodash": "^4.17.15",
+    "meow": "^5.0.0",
     "mkdirp": "^0.5.1",
-    "nodemon": "^1.10.0",
+    "nodemon": "^1.19.1",
     "randomstring": "^1.1.5",
-    "require-dir": "^0.3.0"
+    "require-dir": "^1.2.0"
   }
 }
